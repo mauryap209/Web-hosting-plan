@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body{
@@ -111,6 +112,7 @@ img{
     } 
 
 .btn2{
+    border: none;
     background-color: royalblue;
     height: 50px;
     width: 300px;
