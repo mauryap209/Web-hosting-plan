@@ -66,6 +66,8 @@ h1{
 
 
 .btn6{
+    transition: 0.5s ;
+    border: none;
     margin: 30px;
     border-radius: 20px;
     height: 40px;
